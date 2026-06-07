@@ -1,6 +1,6 @@
 build/
-*/build/
 install/
 log/
-*.o
-*.out
+*.pyc
+__pycache__/
+.vscode/
